@@ -5,5 +5,8 @@
 ## 학습 순서
 
 1. [프로젝트의 규칙과 구조를 먼저 살펴보기](docs/learning/01-project-conventions-first.md) — 프로젝트별 안내와 기존 구현 방식을 먼저 확인해야 하는 이유를 알아봅니다.
+2. **명확한 이름 짓기** — 이름이 역할과 의미를 잘 드러내도록 정하는 원칙을 범위별로 익힙니다.
+   - [Kotlin/Android](docs/learning/02-kotlin-android-naming.md)
+   - [TypeScript/웹](docs/learning/02-typescript-web-naming.md)
 
 각 문서는 하나의 주제를 중심으로 개념, 작은 예시, 핵심 정리와 복습 질문을 담습니다. 원천이 된 스킬 이름과 내용을 확인한 날짜도 문서에 표시합니다.
